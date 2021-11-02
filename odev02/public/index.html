@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Kediyi Bul</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h2>Kedi Bulmaca</h2>
+
+    <p style="padding-top: 3%;">Bu oyunda üç kapalı kart içindeki kediyi bulman gerekmektedir. Eğer ilk seferde bulamaz isen 2. seçim hakkı tanınacaktır.</p>
+
+    <div style="padding-left: 25%; display: flex; flex-wrap: wrap;">
+        <div class="scene scene--card">
+            <div class="card" id="1">
+                <div class="card__face card__face--front" ></div>
+                <img class="card__face card__face--back" src="cat.jpg" style =" width: 250px; height: 250px;" id="img0">
+            </div>
+        </div>
+        <div class="scene scene--card">
+            <div class="card" id="2">
+                <div class="card__face card__face--front" ></div>
+                <img class="card__face card__face--back" src="dog.jpg" style =" width: 250px; height: 250px;" id="img1">
+            </div>
+        </div>
+        <div class="scene scene--card">
+            <div class="card" id="3">
+                <img class="card__face card__face--back" src="dog.jpg" style =" width: 250px; height: 250px;" id="img2">
+                <div class="card__face card__face--front" ></div>
+            </div>
+        </div>
+    </div>
+    <div class="mesaj">
+        <p id="alanId">Kedi kartını bulmak için kartın üzerine tıklamalısın.</p>
+        <p id="kazandiId" style="display:none">Kazandın :) Yeni bir oyun oynamak istersen <span class="link" id='tryAgainWin'>buraya</span> tıkla.</p>
+        <p id="yenildiId" style="display:none">Kaybettin :( Yeniden denemek istersen <span class="link" id='tryAgainLose'>buraya</span> tıkla.</p>
+    </div>
+</body>
+
+<script src="bundle.js"></script>
+
+</html>
