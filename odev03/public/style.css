@@ -1,0 +1,13 @@
+html, body {
+    margin: 0px;
+    background-color: rgb(240, 240, 240);
+    color: rgb(71, 53, 25);
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.link {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+}
