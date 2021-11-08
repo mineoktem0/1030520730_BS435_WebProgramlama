@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1617221203844" clover="3.2.0">
+  <project timestamp="1617221203844" name="All files">
+    <metrics statements="52" coveredstatements="50" conditionals="14" coveredconditionals="12" methods="17" coveredmethods="15" elements="83" coveredelements="77" complexity="0" loc="52" ncloc="52" packages="1" files="2" classes="2"/>
+    <file name="Game.jsx" path="/Users/furkancakmak/Desktop/projects/1030520750_BS436_WebProgramlama/odev04/src/Game.jsx">
+      <metrics statements="50" coveredstatements="50" conditionals="14" coveredconditionals="12" methods="16" coveredmethods="15"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="17" count="2" type="stmt"/>
+      <line num="28" count="2" type="stmt"/>
+      <line num="31" count="2" type="stmt"/>
+      <line num="32" count="2" type="stmt"/>
+      <line num="33" count="4" type="stmt"/>
+      <line num="34" count="4" type="stmt"/>
+      <line num="36" count="2" type="stmt"/>
+      <line num="39" count="2" type="stmt"/>
+      <line num="40" count="8" type="stmt"/>
+      <line num="41" count="8" type="stmt"/>
+      <line num="42" count="8" type="stmt"/>
+      <line num="47" count="2" type="stmt"/>
+      <line num="48" count="4" type="stmt"/>
+      <line num="53" count="2" type="stmt"/>
+      <line num="54" count="4" type="stmt"/>
+      <line num="59" count="2" type="stmt"/>
+      <line num="60" count="2" type="stmt"/>
+      <line num="65" count="2" type="stmt"/>
+      <line num="66" count="4" type="stmt"/>
+      <line num="70" count="2" type="stmt"/>
+      <line num="71" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="72" count="2" type="stmt"/>
+      <line num="73" count="2" type="stmt"/>
+      <line num="74" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="75" count="1" type="stmt"/>
+      <line num="76" count="1" type="stmt"/>
+      <line num="77" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="78" count="1" type="stmt"/>
+      <line num="79" count="1" type="stmt"/>
+      <line num="84" count="2" type="stmt"/>
+      <line num="85" count="2" type="stmt"/>
+      <line num="86" count="2" type="stmt"/>
+      <line num="87" count="2" type="stmt"/>
+      <line num="88" count="6" type="stmt"/>
+      <line num="90" count="2" type="stmt"/>
+      <line num="91" count="2" type="stmt"/>
+      <line num="94" count="24" type="stmt"/>
+      <line num="95" count="24" type="stmt"/>
+      <line num="99" count="1" type="cond" truecount="2" falsecount="0"/>
+      <line num="100" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="101" count="1" type="cond" truecount="2" falsecount="0"/>
+      <line num="112" count="1" type="stmt"/>
+    </file>
+    <file name="index.jsx" path="/Users/furkancakmak/Desktop/projects/1030520750_BS436_WebProgramlama/odev04/src/index.jsx">
+      <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="13" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
